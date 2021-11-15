@@ -1,0 +1,153 @@
+region1,region,rate 
+East Midlands,Midlands,0.0000888667 
+East Midlands,Midlands,0.0000971355 
+East Midlands,Midlands,0.0001028107 
+East Midlands,Midlands,0.0002563197 
+East Midlands,Midlands,-0.0002916419 
+East Midlands,Midlands,0.0001772302 
+East Midlands,Midlands,0.0002738482 
+East Midlands,Midlands,0.0003321085 
+East Midlands,Midlands,0.0001994405 
+East of England,South_exclude_London,0.0000057125 
+East of England,South_exclude_London,0.0001200900 
+East of England,South_exclude_London,0.0000615871 
+East of England,South_exclude_London,0.0001605265 
+East of England,South_exclude_London,0.0001834516 
+East of England,South_exclude_London,0.0001257151 
+East of England,South_exclude_London,0.0002360073 
+East of England,South_exclude_London,0.0001516666 
+East of England,South_exclude_London,0.0002396054 
+East of England,South_exclude_London,0.0001384735 
+East of England,South_exclude_London,0.0001869075 
+London,London,0.0000739798 
+London,London,0.0002791740 
+London,London,0.0004523904 
+London,London,0.0006889089 
+London,London,0.0005883544 
+London,London,0.0006534121 
+London,London,0.0007348275 
+London,London,0.0005845418 
+London,London,0.0005516117 
+London,London,0.0003100383 
+London,London,0.0004554533 
+London,London,0.0007633863 
+London,London,0.0005016179 
+London,London,0.0008139013 
+London,London,0.0006077364 
+London,London,0.0006653220 
+London,London,0.0010144848 
+London,London,0.0006733991 
+London,London,0.0006105076 
+London,London,0.0006701308 
+London,London,0.0007630241 
+London,London,0.0008057698 
+London,London,0.0007517188 
+London,London,0.0004708179 
+London,London,0.0007388082 
+London,London,0.0004688249 
+London,London,0.0006593720 
+London,London,0.0007079894 
+London,London,0.0006792573 
+London,London,0.0006936992 
+London,London,0.0008165359 
+London,London,0.0007703084 
+London,London,0.0007637460 
+North East,North,0.0003423913 
+North East,North,0.0004049134 
+North East,North,0.0003423004 
+North East,North,0.0003702071 
+North East,North,0.0003434986 
+North East,North,0.0002497718 
+North East,North,0.0002451680 
+North East,North,0.0004260222 
+North East,North,0.0006890614 
+North East,North,0.0002140877 
+North East,North,0.0000901854 
+North East,North,0.0003877695 
+North West,North,0.0003503214 
+North West,North,0.0004107492 
+North West,North,0.0007337963 
+North West,North,0.0004742155 
+North West,North,0.0003531083 
+North West,North,0.0001816117 
+North West,North,0.0001043656 
+North West,North,0.0005640425 
+North West,North,0.0005139546 
+North West,North,0.0003743958 
+North West,North,0.0006347799 
+North West,North,0.0003634327 
+North West,North,0.0002420636 
+North West,North,0.0008438521 
+North West,North,0.0002371276 
+North West,North,0.0006609043 
+North West,North,0.0003917357 
+North West,North,0.0004874975 
+North West,North,0.0007009040 
+North West,North,0.0004957083 
+North West,North,0.0005466886 
+North West,North,0.0004415103 
+North West,North,0.0005029868 
+South East,South_exclude_London,-0.0001374453 
+South East,South_exclude_London,0.0000316530 
+South East,South_exclude_London,0.0000183546 
+South East,South_exclude_London,0.0000826687 
+South East,South_exclude_London,0.0001582424 
+South East,South_exclude_London,0.0002402172 
+South East,South_exclude_London,0.0001249774 
+South East,South_exclude_London,0.0004010825 
+South East,South_exclude_London,0.0002264269 
+South East,South_exclude_London,0.0001458879 
+South East,South_exclude_London,0.0004687003 
+South East,South_exclude_London,0.0001036151 
+South East,South_exclude_London,0.0002738404 
+South East,South_exclude_London,0.0000135834 
+South East,South_exclude_London,0.0002642702 
+South East,South_exclude_London,0.0000782796 
+South East,South_exclude_London,0.0002820760 
+South East,South_exclude_London,0.0005462015 
+South East,South_exclude_London,0.0003144712 
+South West,South_exclude_London,-0.0006333830 
+South West,South_exclude_London,0.0001982767 
+South West,South_exclude_London,-0.0000981922 
+South West,South_exclude_London,0.0001014977 
+South West,South_exclude_London,0.0000563116 
+South West,South_exclude_London,0.0001672977 
+South West,South_exclude_London,0.0002575302 
+South West,South_exclude_London,0.0000310796 
+South West,South_exclude_London,0.0001353557 
+South West,South_exclude_London,0.0002805637 
+South West,South_exclude_London,0.0003153754 
+South West,South_exclude_London,0.0001847940 
+South West,South_exclude_London,0.0001758419 
+South West,South_exclude_London,0.0001851515 
+South West,South_exclude_London,-0.0000963509 
+South West,South_exclude_London,0.0003090800 
+West Midlands,Midlands,0.0001093945 
+West Midlands,Midlands,0.0001918385 
+West Midlands,Midlands,0.0000263667 
+West Midlands,Midlands,0.0005297883 
+West Midlands,Midlands,0.0004126494 
+West Midlands,Midlands,0.0000936321 
+West Midlands,Midlands,0.0004273413 
+West Midlands,Midlands,0.0005457711 
+West Midlands,Midlands,0.0002176438 
+West Midlands,Midlands,0.0003123724 
+West Midlands,Midlands,0.0002519610 
+West Midlands,Midlands,0.0002218932 
+West Midlands,Midlands,0.0004894750 
+West Midlands,Midlands,0.0001426316 
+Yorkshire and the Humber,North,0.0003130018 
+Yorkshire and the Humber,North,0.0004488564 
+Yorkshire and the Humber,North,0.0002183581 
+Yorkshire and the Humber,North,0.0002193107 
+Yorkshire and the Humber,North,0.0004522944 
+Yorkshire and the Humber,North,0.0002797268 
+Yorkshire and the Humber,North,0.0004481439 
+Yorkshire and the Humber,North,0.0007052961 
+Yorkshire and the Humber,North,0.0003098480 
+Yorkshire and the Humber,North,0.0003129844 
+Yorkshire and the Humber,North,0.0004587309 
+Yorkshire and the Humber,North,0.0001578914 
+Yorkshire and the Humber,North,0.0003784697 
+Yorkshire and the Humber,North,0.0004373521 
+Yorkshire and the Humber,North,0.0004559458 
